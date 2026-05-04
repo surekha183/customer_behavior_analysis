@@ -2,6 +2,8 @@
 
 ## 📌 Overview
 
+This project represents a complete, industry standard, end-to-end data analytics workflow, designed to mirror the real responsibilities of professional analysts in modern business environments. The project encompasses all critical stages of data analysis, from data preparation and modeling to insight generation, visualization, and reporting.
+
 This project analyzes customer purchasing behavior using **PostgreSQL, Python (Pandas), and Power BI** to derive meaningful business insights. The data is processed and transformed using SQL and Pandas, then visualized through an interactive Power BI dashboard.
 
 ---
@@ -90,8 +92,11 @@ The dataset contains customer transaction data, including:
 
 ```
 📦 customer_behavior_analysis
+ ┣ 📄 Business Problem Document.pdf
+ ┣ 📄 Customer_analysis_data_cleaning.py
  ┣ 📄 Customer_Behavior_Dashboard.pbix
  ┣ 📄 customer_shopping_behavior.csv
+ ┣ 📄 customer_shopping_behavior_analysis.pptx
  ┣ 📄 dashboard.png
  ┣ 📄 queries.sql    
  ┗ 📄 README.md
