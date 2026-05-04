@@ -93,6 +93,7 @@ The dataset contains customer transaction data, including:
  ┣ 📄 Customer_Behavior_Dashboard.pbix
  ┣ 📄 customer_shopping_behavior.csv
  ┣ 📄 dashboard.png
+ ┣ 📄 queries.sql    
  ┗ 📄 README.md
 ```
 
